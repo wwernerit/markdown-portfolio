@@ -1,11 +1,11 @@
 Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills.
 
-##Programming languages:
+## Programming languages:
 * **HASML** *primary* language
 * **Cobol** *secondary* language
 * **JCL** z/OS scripting 
 
-##Database
+## Database
 1.**IDMS**
 2.**DB2**
 
